@@ -1,3 +1,6 @@
+# 🚀 ReactJs Navbar Project
+## This is a navbar component project with Styled components, react-router-dom and react icons
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
